@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**carlagamarano/Carlagamarano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently procurando estágio
+- 🌱  Estou aprendendo HTML E CSS/ Linguagem PYTHON.
+- ⚡ Minhas atividades estão muito além do meu fluxo de educação
+- ✨ Participei de dois Hackathons
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Área de interesse :  DBA
+
+Habilidades🛠
+-  Linguagem :  Python, SQl
+-  Pacote Office: Intermédiário
+-  Power Bi
+
+
+##
+
+📫Como chegar até mim?
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlagamarano&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlagamarano&layout=compact)](https://github.com/carlagamaranoa/github-readme-stats)
