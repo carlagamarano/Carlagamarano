@@ -18,7 +18,10 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
 ### Como chegar até mim?  💻
-- [ Linkedin ](https://www.linkedin.com/in/carla-gamarano-04587817a/)
+<div align="">
+  <a href="https://www.linkedin.com/in/carla-gamarano-04587817a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>                                                                               <a href="https://www.instagram.com/_carlagamarano/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="mailto:carla.sgamarano@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
 ###  Certificações 📜
 - [ MySQL-  (com horas) ](https://www.cursoemvideo.com/certificates/certificado/?course_id=25971&cert-nonce=df041442ad)
@@ -32,10 +35,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlagamarano&layout=compact)](https://github.com/carlagamaranoa/github-readme-stats)
 
-
-<div align="center">
-  ![Snake animation](https://github.com/carlagamarano/carlagamarano/blob/output/github-contribution-grid-snake.svg) 
-
-  ![Snake animation](https://github.com/carlagamarano/carlagamarano/blob/output/github-contribution-grid-snake.svg)
-
-</div>
