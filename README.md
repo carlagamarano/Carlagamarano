@@ -14,6 +14,9 @@
 -  Pacote Office: Intermédiário
 -  Power Bi
 
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
 ### Como chegar até mim?  💻
 - [ Linkedin ](https://www.linkedin.com/in/carla-gamarano-04587817a/)
 
@@ -28,3 +31,11 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlagamarano&layout=compact)](https://github.com/carlagamaranoa/github-readme-stats)
+
+
+<div align="center">
+  ![Snake animation](https://github.com/carlagamarano/carlagamarano/blob/output/github-contribution-grid-snake.svg) 
+
+  ![Snake animation](https://github.com/carlagamarano/carlagamarano/blob/output/github-contribution-grid-snake.svg)
+
+</div>
